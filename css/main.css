@@ -1,0 +1,30 @@
+.carousel-item {
+    height: 32rem;
+    background-image: url('../imgs/images.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #37474F;
+    color: #fafafa;
+    margin: 0;
+    padding: 5rem 0;
+    text-align: center;
+    font-size: .7rem;
+}
+
+footer a {
+    text-decoration: none;
+    border: 1px solid #fafafa;
+    border-radius: 6px;
+    padding: .8rem;
+    color: #fafafa;
+    font-weight: bold;
+}
